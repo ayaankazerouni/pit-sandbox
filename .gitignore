@@ -1,0 +1,5 @@
+out/
+reports/
+
+*.class
+.DS_Store
